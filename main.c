@@ -14,6 +14,7 @@ void printHelp(char * exec){
     puts("\t[-n|--next-day]   Show the meal-plan of the next day");
     puts("\t[--not-colored]   Don't use colored descriptions");
     puts("\t[-S -M -F]        Show only the prices for student (-S), workers (-M) or stranger (-F)");
+    puts("\t[-v|--version]    Show current version");
     puts("\t[-h|--help]       Show this help");
     puts("");
 }
